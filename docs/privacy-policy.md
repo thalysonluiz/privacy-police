@@ -112,7 +112,7 @@ You may request access, correction, portability, deletion, and information about
 
 **9. Children and minors**
 
-The app may include children’s data provided by legal guardians. Use is intended for legal guardians only.
+The app may include children's data provided by legal guardians. Use is intended for legal guardians only.
 
 **10. Changes to this policy**
 
